@@ -1,0 +1,10 @@
+C:\B Programmer\C#\MobileAgentBasedIDS\MobileAgentBasedIDS\obj\x86\Debug\MobileAgentBasedIDS.FrmHostMASetUp.resources
+C:\B Programmer\C#\MobileAgentBasedIDS\MobileAgentBasedIDS\obj\x86\Debug\MobileAgentBasedIDS.Properties.Resources.resources
+C:\B Programmer\C#\MobileAgentBasedIDS\MobileAgentBasedIDS\obj\x86\Debug\MobileAgentBasedIDS.csproj.GenerateResource.Cache
+C:\B Programmer\C#\MobileAgentBasedIDS\MobileAgentBasedIDS\bin\Debug\MobileAgentBasedIDS.exe
+C:\B Programmer\C#\MobileAgentBasedIDS\MobileAgentBasedIDS\bin\Debug\MobileAgentBasedIDS.pdb
+C:\B Programmer\C#\MobileAgentBasedIDS\MobileAgentBasedIDS\obj\x86\Debug\MobileAgentBasedIDS.exe
+C:\B Programmer\C#\MobileAgentBasedIDS\MobileAgentBasedIDS\obj\x86\Debug\MobileAgentBasedIDS.pdb
+C:\B Programmer\C#\MobileAgentBasedIDS\MobileAgentBasedIDS\obj\x86\Debug\MobileAgentBasedIDS.csprojResolveAssemblyReference.cache
+C:\B Programmer\C#\MobileAgentBasedIDS\MobileAgentBasedIDS\obj\x86\Debug\MobileAgentBasedIDS.FrmAdminPanel.resources
+C:\B Programmer\C#\MobileAgentBasedIDS\MobileAgentBasedIDS\obj\x86\Debug\MobileAgentBasedIDS.FrmUserProfiles.resources
